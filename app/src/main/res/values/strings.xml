@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cp2-RM551534</string>
+    <string name="input_hint1">Entrada 1</string>
+    <string name="input_hint2">Entrada 2</string>
+    <string name="submit_button">Enviar</string>
+    <string name="open_second">Abrir Segunda Atividade</string>
+</resources>
